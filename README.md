@@ -6,7 +6,7 @@ This app is a clone of [react-native-clear-app-cache](https://github.com/midas-g
 
 Add to your package.json:
 
-`"react-native-clear-cache": "sowlutions/react-native-clear-cache"`
+`"react-native-clear-cache": "caolp/react-native-clear-cache"`
 
 ### Mostly automatic installation
 
